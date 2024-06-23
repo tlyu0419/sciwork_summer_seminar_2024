@@ -4,8 +4,6 @@
 - Date: 2024-06-22
 - Colab Link:
   - https://colab.research.google.com/drive/1ORQJ36reUF4yjunhZjUiRZHBGaqraz-0
-- Kaggle Competition Link:
-  - https://www.kaggle.com/competitions/digital-banking-apps-reviews-classification
 - Abstract:
   - 在企業中存在許多文本分類技術的應用場景。舉凡在客戶服務、風險管理還是投資領域，都可以透過建立文本分類的模型協助公司將流程自動化進而節省大量人力成本
   - 當我們想要建立文本分類模型時，必須先將非結構化的文本轉為可供模型使用的文本特徵。而影響模型效度的關鍵就在於文本特徵的處理方式
